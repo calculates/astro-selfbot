@@ -3,8 +3,8 @@ astro tool made by such#1234.
 instructions:
 <br>
 <br>
-open <b>install.bat</b>
-edit <b>config.json</b>
-open <b>start.bat</b>
+open <b>install.bat</b> <br>
+edit <b>config.json</b> <br>
+open <b>start.bat</b> <br>
 <br>
 don't skid me :)
