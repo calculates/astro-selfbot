@@ -3,7 +3,7 @@ astro tool made by such#1234.
 instructions:
 <br>
 <br>
-npm install<br>
+open <b>install.bat</b>
 edit <b>config.json</b>
 open <b>start.bat</b>
 <br>
