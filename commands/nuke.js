@@ -41,3 +41,6 @@ module.exports.run = async (client, msg, args) => {
     console.log(' ')
     console.log('[!] Que deus tenho piedade daqueles que mexeram conosco, pois nós mesmos, infelizmente, não teremos.'.blue);
 }
+
+
+
