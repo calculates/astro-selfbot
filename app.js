@@ -38,7 +38,7 @@ client.on("ready", ready => {
 })
 
 client.on('message', msg => {
-    if (msg.author.id !== client.user.id || config.ownerID) return;
+    if (msg.author.id !== client.user.id) return;
     if (msg.author.bot) return;
     if (!msg.content.toLowerCase().startsWith(config.prefix.toLowerCase())) return;
   
